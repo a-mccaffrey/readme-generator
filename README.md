@@ -1,11 +1,11 @@
 
-[GitHub](https://img.shields.io/github/license/a-mccaffrey/readme-generator)
+![GitHub](https://img.shields.io/github/license/a-mccaffrey/readme-generator)
 
 # readme-generator
 
 ## Description
 
-lksdfjsdlfj
+something
 
 ## Table of Contents
 
@@ -18,23 +18,23 @@ lksdfjsdlfj
 
 ## Installation
 
-lsdkfjdsljf
+something
 
 ## Usage
 
-lkjflskdjflsdkjf
+something
 
 ## License
 
-For full license information, please [click here](https://choosealicense.com/licenses/MPL-2.0/). 
+For full license information, please [click here](https://choosealicense.com/licenses/AGPL-3.0/). 
 
 ## Contributing
 
-slkdfjlkjsdf
+something
 
 ## Tests
 
-lklksjflkdsjf
+something
 
 ## Questions
 

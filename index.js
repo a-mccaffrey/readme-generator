@@ -45,7 +45,7 @@ let gatherInfo = async () => {
     })
 
     let readmeText = `
-[GitHub](https://img.shields.io/github/license/${github}/${title})
+![GitHub](https://img.shields.io/github/license/${github}/${title})
 
 # ${title}
 
