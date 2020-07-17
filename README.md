@@ -1,11 +1,11 @@
 
-[GitHub](https://img.shields.io/github/license/sdlkfjlsdkjf/dslfkjsdfsdlkjf)
+[GitHub](https://img.shields.io/github/license/a-mccaffrey/readme-generator)
 
-# dslfkjsdfsdlkjf
+# readme-generator
 
 ## Description
 
-sdjflksdjflgd
+lksdfjsdlfj
 
 ## Table of Contents
 
@@ -18,26 +18,26 @@ sdjflksdjflgd
 
 ## Installation
 
-slkfdsdlkjgflskdfj
+lsdkfjdsljf
 
 ## Usage
 
-sdkfjdlskfjlsdf
+lkjflskdjflsdkjf
 
 ## License
 
-For full license information, please [click here](https://choosealicense.com/licenses/AGPL-3.0/). 
+For full license information, please [click here](https://choosealicense.com/licenses/MPL-2.0/). 
 
 ## Contributing
 
-dslkfjlksdjfsd
+slkdfjlkjsdf
 
 ## Tests
 
-sldkfjsdlkjgf
+lklksjflkdsjf
 
 ## Questions
 
-Want to know more? Look me up on GitHub. My username is sdlkfjlsdkjf and my profile is at [github.com/sdlkfjlsdkjf](github.com/sdlkfjlsdkjf)
+Want to know more? Look me up on GitHub. My username is a-mccaffrey and my profile is at [github.com/a-mccaffrey](github.com/a-mccaffrey)
 
-Alternatively, get in touch by emailing me at [dflkjgs](mailto:dflkjgs).
+Alternatively, get in touch by emailing me at [aisling.s.mccaffrey@gmail.com](mailto:aisling.s.mccaffrey@gmail.com).
