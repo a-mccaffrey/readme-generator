@@ -91,7 +91,7 @@ ${tests}
 
 ## Questions
 
-Want to know more? Look me up on GitHub. My username is ${github} and my profile is [here](github.com/${github})
+Want to know more? Look me up on GitHub. My username is ${github} and my profile is [here](https://www.github.com/${github})
 
 Alternatively, get in touch by emailing me at [${email}](mailto:${email}).
 `;
