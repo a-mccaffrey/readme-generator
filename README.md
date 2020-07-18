@@ -45,6 +45,6 @@ I did not write any tests for this project. You are welcome to write your own fo
 
 ## Questions
 
-Want to know more? Look me up on GitHub. My username is a-mccaffrey and my profile is at [https://www.github.com/a-mccaffrey](github.com/a-mccaffrey)
+Want to know more? Look me up on GitHub. My username is a-mccaffrey and my profile is [here](https://www.github.com/a-mccaffrey)
 
 Alternatively, get in touch by emailing me at [aisling.s.mccaffrey@gmail.com](mailto:aisling.s.mccaffrey@gmail.com).
