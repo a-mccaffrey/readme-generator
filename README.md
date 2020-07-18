@@ -25,7 +25,9 @@ To install this application, please make a clone for your own computer, and then
 
 ## Usage
 
-Start the application by writing "node index.js" from within the local project folder in terminal, and respond to each question with an answer. Here is a screenshot of what the questions will look like: ![Screenshot of app questions](./screenshot.png)
+Start the application by writing "node index.js" from within the local project folder in terminal, and respond to each question with an answer. Here is a screenshot of what the questions will look like: 
+
+![Screenshot of app questions](https://github.com/a-mccaffrey/readme-generator/blob/master/Screenshot.png?raw=true)
 
 
 ## License
