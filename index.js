@@ -53,34 +53,41 @@ let gatherInfo = async () => {
 
 ${description}
 
+
 ## Table of Contents
 
-*[Installation](#installation)
-*[Usage](#usage)
-*[License](#license)
-*[Contributing](#contributing)
-*[Tests](#tests)
-*[Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
 
 ## Installation
 
 ${installation}
 
+
 ## Usage
 
 ${usage}
 
+
 ## License
 
-For full license information, please [click here](https://choosealicense.com/licenses/${license}/). 
+This project is under the ${license} license. For full license information, please [click here](https://choosealicense.com/licenses/${license}/). 
+
 
 ## Contributing
 
 ${contributing}
 
+
 ## Tests
 
 ${tests}
+
 
 ## Questions
 
